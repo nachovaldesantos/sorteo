@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#1e40af"/>
+  <!-- Dorsal Bib -->
+  <rect x="80" y="110" width="352" height="292" rx="36" fill="#ffffff"/>
+  <!-- Header stripe -->
+  <path d="M 80,146 C 80,126 96,110 116,110 L 396,110 C 416,110 432,126 432,146 L 432,175 L 80,175 Z" fill="#ef4444"/>
+  <!-- Pin holes -->
+  <circle cx="106" cy="136" r="10" fill="#64748b"/>
+  <circle cx="406" cy="136" r="10" fill="#64748b"/>
+  <circle cx="106" cy="376" r="10" fill="#64748b"/>
+  <circle cx="406" cy="376" r="10" fill="#64748b"/>
+  <!-- Dorsal number text -->
+  <text x="256" y="315" font-family="system-ui, -apple-system, sans-serif" font-size="140" font-weight="900" fill="#0f172a" text-anchor="middle">#1</text>
+  <text x="256" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" fill="#ffffff" letter-spacing="4" text-anchor="middle">SORTEO</text>
+</svg>
